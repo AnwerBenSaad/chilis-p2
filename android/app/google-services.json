@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694826758088",
+    "project_id": "backend-24124",
+    "storage_bucket": "backend-24124.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694826758088:android:6d77c0be500566bdca1afd",
+        "android_client_info": {
+          "package_name": "com.example.chilis_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjbfxfsyssQoHVJa_tpEjhH8X7RnSDUrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694826758088:android:9bd879faf30ee887ca1afd",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjbfxfsyssQoHVJa_tpEjhH8X7RnSDUrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
